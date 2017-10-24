@@ -1,4 +1,4 @@
 language: c++
 c++:
   14
-script: make
+script: makefile
