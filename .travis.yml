@@ -1,4 +1,4 @@
 language: cpp
 cpp:
-  14
-script: makefile
+  - "14"
+script: make
