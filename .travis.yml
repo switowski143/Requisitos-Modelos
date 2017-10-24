@@ -1,3 +1,4 @@
 language: c++
 c++:
   14
+script: miarchivo
