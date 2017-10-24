@@ -1,4 +1,3 @@
 language: cpp
 cpp:
   - "14"
-script: make
