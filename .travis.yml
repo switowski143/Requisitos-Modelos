@@ -1,3 +1,5 @@
 language: cpp
 cpp:
   - "14"
+ script:
+ - cpp main.cpp
