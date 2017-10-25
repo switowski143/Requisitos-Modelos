@@ -1,1 +1,1 @@
-g++ main.cpp -o hello
+gpp main.cpp -o hello
