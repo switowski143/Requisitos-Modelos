@@ -2,4 +2,4 @@ language: cpp
 cpp:
   - "14"
  script:
- - main
+ - make
