@@ -1,0 +1,3 @@
+CMAKE_MINIMUM_REQUIRED(VERSION 2.8)
+PROJECT(Requisitos-Modelos-master)
+ADD_EXECUTABLE(hello main.c)
