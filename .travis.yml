@@ -1,5 +1,5 @@
 language: C
 script:
--cmake CMakeList.txt 
+-cmake CMakeLists.txt 
 -make
 -./hello
