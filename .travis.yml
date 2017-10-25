@@ -4,4 +4,3 @@ compiler:
 script:
 - cmake CMakeLists.txt 
 - make
-- ./hello
